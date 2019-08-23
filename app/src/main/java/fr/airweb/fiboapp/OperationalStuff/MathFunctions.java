@@ -1,9 +1,9 @@
 package fr.airweb.fiboapp.OperationalStuff;
 
-import java.util.ArrayList;
-
 public class MathFunctions
 {
+        //returns fibonacci series based on the number passed as argument
+        // retourne la série fibonacci en fonction du nombre passé en argument
         public static String fibos(int n)
         {
             // Fill Fibonacci numbers in f[] using
