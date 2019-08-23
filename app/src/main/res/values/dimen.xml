@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small_top_bottom">5dp</dimen>
+    <dimen name="padding_small_top_bottom">5dp</dimen>
+    <dimen name="margin_small_top_bottom_for_card">20dp</dimen>
+    <dimen name="margin_start">8dp</dimen>
+    <dimen name="margin_end">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+    <dimen name="text_size_small">6sp</dimen>
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_size_large">25sp</dimen>
+</resources>

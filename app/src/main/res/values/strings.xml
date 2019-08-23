@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FiboApp</string>
+    <string name="this_is_default_string">This is a default string</string>
+</resources>
